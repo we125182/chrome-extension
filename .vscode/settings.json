@@ -1,0 +1,28 @@
+{
+  "cSpell.words": [
+    "antfu",
+    "composables",
+    "demi",
+    "esno",
+    "ffflorian",
+    "iconify",
+    "iife",
+    "kolorist",
+    "pixelarticons",
+    "unplugin",
+    "Vite",
+    "Vitesse",
+    "vueuse",
+    "webext",
+    "webextension",
+    "windi",
+    "windicss"
+  ],
+  "vite.autoStart": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  }
+}
